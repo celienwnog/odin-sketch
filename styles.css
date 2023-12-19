@@ -1,0 +1,19 @@
+#box {
+    border-style: solid;
+    box-sizing: border-box;
+}
+
+#row {
+    display: flex;
+}
+
+.colored {
+    background-color: red;
+}
+
+#grid{
+    border-style: solid;
+    height: 960px;
+    width: 960px;
+    box-sizing: border-box;
+}
